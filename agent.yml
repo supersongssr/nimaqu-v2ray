@@ -1,0 +1,10 @@
+mod:
+  nodeId: 12
+
+database:
+  user: sspanel
+  pass: 6fzxDB4PDH2pT2WE
+
+agent:
+  overWriteConfig: false
+
