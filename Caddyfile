@@ -1,7 +1,7 @@
 https://s12.wewall.top {
   tls /etc/ssl/wewall.top.crt /etc/ssl/wewall.top.key
   proxy / https://chundi888.com.cn {
-        except /panel
+        except /ray
   }
   proxy /ray 127.0.0.1:11011 {
     websocket
