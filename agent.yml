@@ -1,0 +1,14 @@
+mod:
+  nodeId: 12
+
+v2ray:
+  alterId: 2
+
+database:
+  user: asda
+  pass: asdasda
+
+agent:
+  site: 123da
+  token: 123da
+  overWriteConfig: false
